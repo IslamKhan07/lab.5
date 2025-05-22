@@ -1,0 +1,9 @@
+{
+    "profile": {
+      "name": "Əliyev Əli",
+      "email": "eli.eli@example.com",
+      "education": "Bakı Dövlət Universiteti",
+      "experience": "3 il frontend developer",
+      "skills": ["HTML", "CSS", "JavaScript", "React"]
+    }
+  }
